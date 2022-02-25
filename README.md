@@ -94,14 +94,15 @@ Here, we plot the histogram for sentimemts.
 * Many people are there whose reviews are neutral, which means these people neither like nor dislike the app. They use such kinds of apps to fulfill their purpose but they are not interested in these apps. 
 * We can see that 23073 peoples share the positive reviews and 8005 people share the negative reviews of the apps.  
 * And 4851 peoples share neutral reviews for the apps.
+*
 ![image](https://user-images.githubusercontent.com/85746056/155708821-3fd8740c-42b4-4b45-9c75-f0fadc8b34db.png)
 ## h. Sentiment analysis of application category.
 * From this data, we can analyze that which category has highly positve reviews.\
 * Which category dominates in terms of reviews.
 * Which category falls behind in terms of review.
 * For which category people gives maximun neutral review.
+![image](https://user-images.githubusercontent.com/85746056/155709096-5c649450-d7dd-4865-a721-55d68e9db1e8.png)
 
-![image](https://user-images.githubusercontent.com/85746056/155708619-eaed6644-4a85-4471-a3c6-57b19e9f35b8.png)
 
 
 
