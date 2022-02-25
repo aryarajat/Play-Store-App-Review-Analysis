@@ -45,13 +45,11 @@ Mobile app metrics are crucial for any application. They show how well the appli
 Once we have defined and understood the columns and the type of data it contains, it is necessary to eliminate the obvious errors, NaN values, and duplicates. Apart from this in some cases it is necessary to convert the datatype of the entries in the columns into more appropriate datatype.
 These were approached one column at a time. Following is a brief summary of how the error, NaN, and duplicate values were handled:
 ### a. Play_store_data:
-Android Ver: The 3 rows containing NaN values were dropped from the dataset.
-Current Ver: The 8 rows containing NaN values were dropped from the dataset.
-Type: One row containing NaN value was replaced with a relevant entry.
-Rating: The 1470 NaN values were imputed with its median value.
-App: The duplicate values in the dataset were dropped.
-Apart from this the data present in different columns was manipulated to make them easier to analyse. Also, the datatype of the entries was changed in some cases to make the data relevant.
-The resultant number of rows post cleaning the data: 9649
+* Removing Duplicate Apps
+* Removing 19.0 from the column rating
+* Removing 1.9 from the column category
+* Convert the dates in datetime.
+* The resultant number of rows post cleaning the data: 9660
 ### b. User_review:
 All the rows containing NaN values were dropped.
 The resultant number of rows post cleaning the data: 37427
