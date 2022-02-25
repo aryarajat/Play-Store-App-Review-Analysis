@@ -60,17 +60,48 @@ The resultant number of rows post cleaning the data: 37427
 ![image](https://user-images.githubusercontent.com/85746056/155701788-d0bfbe6b-620f-4822-bb18-25bdb0906549.png)
 
 ## b. Content Rating
-![image](https://user-images.githubusercontent.com/85746056/155705715-0727e740-7ee2-4453-b93a-6780611d1835.png)
+
 * Here we can see that the 7903 app belongs to the content rating everyone and 1036 is for teens. 
 * For Mature 17+ there are 393 apps. 
 * Only 3 apps fall under the 18+ category.
-## C. Number of apps in each category
+![image](https://user-images.githubusercontent.com/85746056/155705715-0727e740-7ee2-4453-b93a-6780611d1835.png)
+## c. Number of apps in each category
 * The apps in the dataset are divided among various categories based on its applications and use-cases.
 * In this dataset, the apps are divided into a total of 33 categories.
 * The higher the number of apps in a category, the more competitive it is to launch an app in the said category.
 * From the bar graph below, we can say that the “Family” category has the highest number of apps, followed by the “Game” and “Tools” category. From this we can say that these categories are the most competitive to get in to.
 
 ![image](https://user-images.githubusercontent.com/85746056/155705986-2fedbaba-b289-4a3f-ada7-230261c89308.png)
+## d. Rating Counts for each category
+* Here, we can see which categories have received the most ratings.
+* The family category has the most ratings (1608), followed by the game category with 912 ratings.
+![image](https://user-images.githubusercontent.com/85746056/155706808-75416772-21c4-46ff-be44-c0a355588fb9.png)
+## e. Total app installs in each category
+* We can say that the total number of installs and reviews for an app shows its popularity among the users.
+* The below bar plot gives the distribution of the total app installs in each app category.
+* This measure is useful in determining the popularity of apps categorically.
+* Hence, the “Game”, “Communication”, and “Tools” are the most popular categories compared to the rest.
+![image](https://user-images.githubusercontent.com/85746056/155707050-4bf8ce3b-7c95-4d0d-8bef-5d92fa61e4d4.png)
+## f. App counts for ratings
+* Here we can see 897 apps are having a 4.4 rating which is the most and after that, in the second place 895 apps are having a 4.3 rating, most apps are having 4.3 ratings. 
+* Most of the apps having ratings between 3.5 to 4.8.
+* This metric can be used by a developer to find and study the apps which are not popular among the users and see what mistakes they are doing. Also, this metric can be used to find and study the apps which are popular among the users and implement some strategies in their app.
+![image](https://user-images.githubusercontent.com/85746056/155707600-0909e5f3-b650-41ff-b0d6-42d86a888492.png)
+## g.Sentiment analysis of user reviews
+Here, we plot the histogram for sentimemts.
+
+* From this data, we can analyze how much people like or dislike the app.
+* Many people are there whose reviews are neutral, which means these people neither like nor dislike the app. They use such kinds of apps to fulfill their purpose but they are not interested in these apps. 
+* We can see that 23073 peoples share the positive reviews and 8005 people share the negative reviews of the apps.  
+* And 4851 peoples share neutral reviews for the apps.
+![image](https://user-images.githubusercontent.com/85746056/155708821-3fd8740c-42b4-4b45-9c75-f0fadc8b34db.png)
+## h. Sentiment analysis of application category.
+* From this data, we can analyze that which category has highly positve reviews.\
+* Which category dominates in terms of reviews.
+* Which category falls behind in terms of review.
+* For which category people gives maximun neutral review.
+
+![image](https://user-images.githubusercontent.com/85746056/155708619-eaed6644-4a85-4471-a3c6-57b19e9f35b8.png)
 
 
 
