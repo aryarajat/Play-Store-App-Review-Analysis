@@ -102,7 +102,19 @@ Here, we plot the histogram for sentimemts.
 * Which category falls behind in terms of review.
 * For which category people gives maximun neutral review.
 ![image](https://user-images.githubusercontent.com/85746056/155709096-5c649450-d7dd-4865-a721-55d68e9db1e8.png)
+![image](https://user-images.githubusercontent.com/85746056/155709256-99236ce9-c070-4b13-ab6b-b2a2df1928b5.png)
+![image](https://user-images.githubusercontent.com/85746056/155709270-82651e54-1345-4857-b2a4-62ffe1f2f701.png)
+## h. Sentiment Analysis for paid and free applications
+![image](https://user-images.githubusercontent.com/85746056/155709341-5ddd4c73-79c2-4c01-b843-d2c336a1d1ef.png)
+In the above boxplot, we plot the sentiment polarity scores of user reviews for paid and free apps. From the Boxplot, we can analyze that the free app receives many harsh comments of very high negativity, which can be analyzed by the outliers on the negative y-axis. The paid apps also receive harsh comments but they are not extreme negative as free apps. This may demonstrate something about application quality, i.e., paid applications being more excellent than free applications all things considered. In this project, we broke down more than 10,000 applications from the Google Play Store. We can utilize our discoveries to educate our choices.
 
+## 7. Challenges Faced:
+* The biggest challenge is to find the datast is redundent or not. The size of data set is large so it takes lots of time to understand the data is redunden or not.
+* The sentiment polarity and sentiment subjective cause trobules for us. It is not easy how to use that data and which plot is suitable for that type of data.
+* Handling the error, duplicate and NaN values in the dataset.
+* Designing multiple visualizations to summarize the information in the dataset and successfully communicate the results and trends to the reader.
+## 8. Conclusion:
+The major key factor responsible for engagement and success is the size of the app, category, content rating, type, reviews, last update, and rating. As we observe in the above graphs, the family and games category dominates the app counts. Most of the apps belong to these two categories. Similarly, the maximum app rating lying between 3.4 to 4.8. Also, the apps that are of type free are more popular than paid apps. Updates play an important role in the success of an app because the update provides the latest features and removes the bugs. Those apps whose sizes are less can be used on all devices. How many people installed the app is also a major factor because if more people install the app then it means more people give ratings and reviews for the apps. Games category app receives the highest positive reviews. But, the quality of paid apps is better than free. For example, the app Helix Jump receives the highest positive review having a rating of 4.2 and of type free and it is installed on more than 100000000 devices.
 
-
+Some factor varies from person to person such as those people who want quality in apps they opt for paid apps. In my opinion, the size of the app should be less and if the app is paid then the price of the app is economical. It would be better if the app is free. The app is available for all age groups. Nowadays people mostly used games and social apps.
 
