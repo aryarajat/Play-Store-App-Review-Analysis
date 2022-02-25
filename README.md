@@ -53,3 +53,7 @@ These were approached one column at a time. Following is a brief summary of how 
 ### b. User_review:
 All the rows containing NaN values were dropped.
 The resultant number of rows post cleaning the data: 37427
+## 5. Data Visualization
+## a. App Type
+The first thing that comes to mind when downloading an app is whether it is free or paid.
+![image](https://user-images.githubusercontent.com/85746056/155701788-d0bfbe6b-620f-4822-bb18-25bdb0906549.png)
