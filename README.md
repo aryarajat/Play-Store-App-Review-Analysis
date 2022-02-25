@@ -55,5 +55,22 @@ All the rows containing NaN values were dropped.
 The resultant number of rows post cleaning the data: 37427
 ## 5. Data Visualization
 ## a. App Type
-The first thing that comes to mind when downloading an app is whether it is free or paid.
+* The first thing that comes to mind when downloading an app is whether it is free or paid.
+* Here we can see there is a total of 8902 apps that are free and 756 apps are paid.
 ![image](https://user-images.githubusercontent.com/85746056/155701788-d0bfbe6b-620f-4822-bb18-25bdb0906549.png)
+
+## b. Content Rating
+![image](https://user-images.githubusercontent.com/85746056/155705715-0727e740-7ee2-4453-b93a-6780611d1835.png)
+* Here we can see that the 7903 app belongs to the content rating everyone and 1036 is for teens. 
+* For Mature 17+ there are 393 apps. 
+* Only 3 apps fall under the 18+ category.
+## C. Number of apps in each category
+* The apps in the dataset are divided among various categories based on its applications and use-cases.
+* In this dataset, the apps are divided into a total of 33 categories.
+* The higher the number of apps in a category, the more competitive it is to launch an app in the said category.
+* From the bar graph below, we can say that the “Family” category has the highest number of apps, followed by the “Game” and “Tools” category. From this we can say that these categories are the most competitive to get in to.
+
+![image](https://user-images.githubusercontent.com/85746056/155705986-2fedbaba-b289-4a3f-ada7-230261c89308.png)
+
+
+
