@@ -106,6 +106,7 @@ Here, we plot the histogram for sentimemts.
 ![image](https://user-images.githubusercontent.com/85746056/155709270-82651e54-1345-4857-b2a4-62ffe1f2f701.png)
 ## h. Sentiment Analysis for paid and free applications
 ![image](https://user-images.githubusercontent.com/85746056/155709341-5ddd4c73-79c2-4c01-b843-d2c336a1d1ef.png)
+
 In the above boxplot, we plot the sentiment polarity scores of user reviews for paid and free apps. From the Boxplot, we can analyze that the free app receives many harsh comments of very high negativity, which can be analyzed by the outliers on the negative y-axis. The paid apps also receive harsh comments but they are not extreme negative as free apps. This may demonstrate something about application quality, i.e., paid applications being more excellent than free applications all things considered. In this project, we broke down more than 10,000 applications from the Google Play Store. We can utilize our discoveries to educate our choices.
 
 ## 7. Challenges Faced:
